@@ -1,14 +1,14 @@
 # 💫 About Me:
 
 🚀 Co-founder of Elevvia.tech – a tech agency specializing in web 🌐, iOS 📱, UI/UX 🎨, and AI model 🤖 projects.
-💻 Passionate developer with expertise in front-end ⚛️, full-stack 🌟, and iOS development 🍎.
-🎯 Strong focus on creating intuitive and user-friendly applications.
-🍏 Fascinated by Apple's ecosystem, which inspired my journey into iOS development.
-🛠️ Experienced in SwiftUI 🖥️, React ⚛️, Firebase 🔥, and integrating 3D models 👟 and payment gateways 💳.
-👟 Currently developing 'SNKPEAK', a project featuring 3D shoe models, Firebase backend, and seamless UI/UX.
-📚 Always eager to learn new technologies and stay updated with the latest trends.
-🤝 Enjoy collaborating on innovative projects and contributing to the developer community.
-🔍 Explore my repositories to see my latest work and projects.
+<br>💻 Passionate developer with expertise in front-end ⚛️, full-stack 🌟, and iOS development 🍎.
+<br>🎯 Strong focus on creating intuitive and user-friendly applications.
+<br>🍏 Fascinated by Apple's ecosystem, which inspired my journey into iOS development.
+<br>🛠️ Experienced in SwiftUI 🖥️, React ⚛️, Firebase 🔥, and integrating 3D models 👟 and payment gateways 💳.
+<br>👟 Currently developing 'SNKPEAK', a project featuring 3D shoe models, Firebase backend, and seamless UI/UX.
+<br>📚 Always eager to learn new technologies and stay updated with the latest trends.
+<br>🤝 Enjoy collaborating on innovative projects and contributing to the developer community.
+<br>🔍 Explore my repositories to see my latest work and projects.
 
 
 ## 🌐 Socials:
